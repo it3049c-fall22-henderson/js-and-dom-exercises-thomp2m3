@@ -7,6 +7,12 @@
 
 // Provided for you - prevent form submit
 const form = document.querySelector("form");
+const input = document.getElementById("password");
+const reveal = document.getElementById("togglePassword")
+
 form.addEventListener('submit',function(e){
 	e.preventDefault();
+	if (input.nodeType === "password") {
+		input.nodeType = "text";
+	}
 });
