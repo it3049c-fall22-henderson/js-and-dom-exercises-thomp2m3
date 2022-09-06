@@ -1,6 +1,6 @@
 JS and DOM Exercise
 ===================================
-[Assignment Checks](https://github.com/IT3049C/JS-and-DOM-Exercises/workflows/Assignment%20Checks/badge.svg)
+![Assignment Checks](https://github.com/IT3049C/JS-and-DOM-Exercises/workflows/AssignmentChecks/badge.svg)
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/coursework/labs/js-and-dom-exercises/).
 
